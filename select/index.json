@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "タコダチのうた",
+  "base_artist": "Ninomae Ina'nis",
+  "createdAt": "2026-02-08T10:06:03.600944Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タコダチのうた",
+      "artist": "Ninomae Ina'nis",
+      "has_synced": false,
+      "path": "select/pl_01_タコダチのうた_Ninomae_Ina'nis.txt"
+    }
+  ]
+}
